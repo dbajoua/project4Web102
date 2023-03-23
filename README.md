@@ -1,5 +1,5 @@
 # project4Web102
-# Web Development Project 4 - *CoolCAT*
+# Web Development Project 4 - CoolCAT
 
 Submitted by: **Delvin B**
 
